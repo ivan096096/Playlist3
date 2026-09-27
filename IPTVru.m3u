@@ -1,6 +1,23 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:IPTVru
+#EXTINF:-1 tvg-id="Rossia_1" tvg-logo="http://epg.one/img2/711.png" group-title="Общественные" ,Россия 1
+#EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
+#EXTINF:-1 tvg-id="Россия 1 (+2)" tvg-logo="http://epg.one/img2/3000.png" group-title="Общественные" ,Россия 1 +2
+
+#EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+
+#EXTINF:-1 tvg-id="VHS-ка " tvg-logo="http://epg.one/img2/9065.png" group-title="Кино и сериалы" ,VHS-ка 
+
+#EXTINF:-1 tvg-id="VHS-ка HD" tvg-logo="http://epg.one/img2/9065.png" group-title="Кино и сериалы" ,VHS-ка HD
+
+#EXTINF:-1 tvg-id="Viju TV1000 Action" tvg-logo="http://epg.one/img2/125.png" group-title="Кино и сериалы" ,Viju TV1000 Action
+http://stream.mcquack.net/100/index.m3u
+
+#EXTINF:-1 tvg-id="Viju TV1000" tvg-logo="http://epg.one/img2/127.png" group-title="Кино и сериалы" ,Viju TV1000
+http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="NTV(+2)" tvg-logo="http://epg.one/img2/162.png" group-title="Общественные" ,НТВ +2
 http://cdn2.ntv.ru/ntv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные" ,Первый канал HD
