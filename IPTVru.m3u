@@ -1,6 +1,14 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:IPTVru
 
+#EXTINF:-1 tvg-id="KapitanFantastika.ru@SD" group-title="Детские",Kapitan Fantastika (1080p)
+http://stream.mcquack.net/144/index.m3u8
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" group-title="Кино и сериалы",Indiyskoye Kino (576p)
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-id="FAN.ru@SD" group-title="Кино и сериалы",FAN (576p)
+http://stream.mcquack.net/420/index.m3u8
+#EXTINF:-1 tvg-id="Dorama.ru@SD" group-title="Кино и сериалы",Dorama
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru@SD",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@Plus1" group-title="НТВ",НТВ +1
